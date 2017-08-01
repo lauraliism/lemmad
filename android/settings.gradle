@@ -1,0 +1,3 @@
+rootProject.name = 'lemmad'
+
+include ':app'
